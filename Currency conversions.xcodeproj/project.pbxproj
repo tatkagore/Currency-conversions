@@ -37,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4137B6A1283426AF00D6FA32 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		41B523C9259EA3B4005984CF /* Currency_conversionsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency_conversionsApp.swift; sourceTree = "<group>"; };
 		41B523CA259EA3B4005984CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		41B523CB259EA3CD005984CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -86,6 +87,7 @@
 		41B523C3259EA3B3005984CF = {
 			isa = PBXGroup;
 			children = (
+				4137B6A1283426AF00D6FA32 /* README.md */,
 				41B523C8259EA3B4005984CF /* Shared */,
 				41B523D7259EA3CD005984CF /* macOS */,
 				41B523E0259EA3CD005984CF /* Tests iOS */,
